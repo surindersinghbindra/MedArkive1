@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:background="#4B566D"
+    android:layout_height="200px" >
+    
+    <Button
+            android:id="@+id/tracker"
+            android:layout_width="600px"
+            android:layout_height="200px"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/transparent"
+            android:gravity="start|center_vertical"
+            android:text="Reading Tracker"
+            android:layout_marginLeft="30px"
+            android:textSize="32px"
+            android:textColor="#FFFFFF" />
+
+<!--         <View -->
+<!--             android:id="@+id/button_divider" -->
+<!--             android:layout_width="fill_parent" -->
+<!--             android:layout_height="4px" -->
+<!--             android:layout_alignBottom="@+id/tracker" -->
+<!--             android:layout_alignParentLeft="true" -->
+<!--             android:background="#8589A3" /> -->
+
+        <ImageButton
+            android:id="@+id/forward_tracker"
+            android:layout_width="60px"
+            android:layout_height="60px"
+            android:layout_above="@+id/button_divider"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="90px"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_cpd_next_item" />
+
+</RelativeLayout>

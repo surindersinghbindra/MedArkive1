@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="150px"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/myarkiveIcon"
+        android:layout_width="50px"
+        android:layout_height="50px" />
+
+    <TextView
+        android:id="@+id/nav_drawer_txt"
+        android:layout_width="200px"
+        android:layout_height="150px"
+        android:layout_marginLeft="20px"
+        android:gravity="start|center"
+        android:textSize="38px" />
+
+</LinearLayout>

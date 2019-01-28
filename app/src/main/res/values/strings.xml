@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">1561393870774418</string>
+    <string name="app_name">MedArkive</string>
+    <string name="logout">Logout</string>
+    <string name="refersh">Refresh</string>
+    <string name="enter_username">Enter Email</string>
+    <string name="enter_passwrod">Enter Password</string>
+    <string name="button_login">Enter</string>
+    <string name="frgt_pass">Forgotten password? ></string>
+    <string name="register">Sign Up</string>
+    <string name="submit">SUBMIT</string>
+    <string name="text_multilanguages">*To log in , using your credentials that were sent to your e-mail address</string>
+    <string name="feedback">Enter feedback here &#8230;&#8230;&#8230;</string>
+    <string name="enter_feedback">Your Feedback </string>
+    <string name="title_activity_display_message">Display Message</string>
+    <string name="title_activity_pop_up">PopUpActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_data">DisplayDataActivity</string>
+    <string name="logo_description">Thumb Image</string>
+    <string name="title_activity_main">PDFViewActivity</string>
+    <string name="title_activity_pdfview">PDF</string>
+    <string name="type">Enter Speciality</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_register_new_user">RegisterNewUser</string>
+    <string name="title_activity_registration_confirmation">RegistrationConfirmation</string>
+    <string name="search_hint">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="okay">Okay</string>
+    <string name="cannot_open_document">Cannot open document</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="enter_password">Enter password</string>
+    <string name="print_failed">Print failed</string>
+    <string name="highlight">Highlight</string>
+    <string name="underline">Underline</string>
+    <string name="edit_annotations">Edit annotations</string>
+    <string name="ink">Ink</string>
+    <string name="save">Save</string>
+    <string name="print">Print</string>
+    <string name="select_text">Select text</string>
+    <string name="draw_annotation">Draw annotation</string>
+    <string name="nothing_to_save">Nothing to save</string>
+    <string name="no_text_selected">No text selected</string>
+    <string name="document_has_changes_save_them_">Document has changes. Save them?</string>
+    <string name="cannot_open_document_Reason">Cannot open document: %1$s</string>
+    <string name="cannot_open_file_Path">Cannot open file: %1$s</string>
+    <string name="cannot_open_buffer">Cannot open buffer</string>
+    <string name="fill_out_text_field">Fill out text field</string>
+    <string name="toggle_links">Highlight and enable links</string>
+    <string name="outline_title">Table of Contents</string>
+    <string name="search_document">Search document</string>
+    <string name="delete">Delete</string>
+    <string name="accept">Accept</string>
+    <string name="search_backwards">Search backwards</string>
+    <string name="search_forwards">Search forwards</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+
+    <string-array name="side_menu_array">
+        <item>Home</item>
+        <item>CPD Log</item>
+        <item>Browser</item>
+        <item>My Arkive</item>
+        <item>Dashboard</item>
+        <item>My Setting</item>
+        <item>Feedback</item>
+    </string-array>
+    <string-array name="settings_submenu">
+        <item>Edit Profile</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pdftabs">PDFTabsActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_fedd_back">FeddBack</string>
+    <string name="title_activity_tracker">TrackerActivity</string>
+    <string name="title_activity_my_arkive_fragment">MyArkiveFragment</string>
+    <string name="title_activity_cpd__fragment">CPD_Fragment</string>
+    <string name="title_activity_edit__profile__fragment">Edit_Profile_Fragment</string>
+    <string name="title_activity_edit_name">EditName</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_cpdoption">CPDOption</string>
+    <string name="title_activity_event_description_fragment">EventDescriptionFragment</string>
+    <string name="title_activity_bookmark_list">BookmarkListActivity</string>
+    <string name="title_activity_ebooklist_fragment">EBOOKListFragment</string>
+    <string name="title_activity_search_activity_for_web">SearchActivityForWeb</string>
+    <string name="traking_string">Save Content info in order to track the record, tap the Save button</string>
+
+</resources>

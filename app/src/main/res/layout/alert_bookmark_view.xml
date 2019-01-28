@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="500px"
+        android:layout_height="380px"
+        android:background="#FFFFFF"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="130px"
+            android:gravity="center|center_vertical"
+            android:text="Bookmarks"
+            android:textColor="@color/black"
+            android:textSize="40px" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#626262" />
+
+        <Button
+            android:id="@+id/add_bookmark"
+            android:layout_width="match_parent"
+            android:layout_height="80px"
+            android:background="@color/transparent"
+            android:text="Add Bookmark"
+            android:textColor="#0077CC"
+            android:textSize="32px" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#626262" />
+
+        <Button
+            android:id="@+id/show_bookmark"
+            android:layout_width="match_parent"
+            android:layout_height="80px"
+            android:background="@color/transparent"
+            android:text="Show Saved Bookmark"
+            android:textColor="#0077CC"
+            android:textSize="32px" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#626262" />
+
+        <Button
+            android:id="@+id/cancel_bookmark"
+            android:layout_width="match_parent"
+            android:layout_height="80px"
+            android:background="@color/transparent"
+            android:text="Cancel"
+            android:textColor="#0077CC"
+            android:textSize="32px"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

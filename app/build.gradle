@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.medarkive"
+        minSdkVersion 16
+        targetSdkVersion 26
+        multiDexEnabled true
+
+                    ndk {
+                        abiFilters 'armeabi-v7a'
+                    }
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    android {
+        useLibrary 'org.apache.http.legacy'
+
+    }
+
+
+}
+
+dependencies {
+    implementation 'com.facebook.android:facebook-android-sdk:[4,5)'
+    implementation files('libs/acra-4.9.0-RC-1-sources.jar')
+    implementation files('libs/assl_sdk_rmn.jar')
+    implementation files('libs/crittercism_v5_5_5_sdkonly.jar')
+    implementation files('libs/signpost-commonshttp4-1.2.1.1.jar')
+    implementation files('libs/signpost-core-1.2.1.1.jar')
+    implementation files('libs/twitter4j-core-3.0.5.jar')
+    implementation 'com.artifex.mupdf:viewer:1.13.0'
+   // compile project(path: ':mupdf-android-viewer-old-master')
+    // implementation project(path: ':mupdf-android-viewer-old-master',configuration:'default')
+   // implementation project(path: ':mupdf-android-viewer-old-master')
+
+
+}

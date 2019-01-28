@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jan 28 17:54:37 IST 2019
+1.base=/home/atinder/Downloads/MedArkive1/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=gill-sans.ttf
+0.set=ASSET
+0.base=/home/atinder/Downloads/MedArkive1/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+1.path=gill-sans-light.ttf

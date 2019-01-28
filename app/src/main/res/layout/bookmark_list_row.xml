@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4B566D" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/bookmark_title_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="40px"
+            android:layout_marginRight="20px"
+            android:layout_toLeftOf="@+id/delete_bookmark"
+            android:text="TextView"
+            android:textColor="#FFFFFF"
+            android:textSize="32px" />
+
+        <TextView
+            android:id="@+id/bookmark_link_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/bookmark_title_txt"
+            android:layout_marginLeft="40px"
+            android:layout_marginRight="20px"
+            android:layout_marginTop="20px"
+            android:layout_toLeftOf="@+id/delete_bookmark"
+            android:text="TextView"
+            android:textColor="#FFFFFF"
+            android:textSize="28px" />
+
+        <!-- <View -->
+        <!-- android:layout_width="fill_parent" -->
+        <!-- android:layout_height="2dp" -->
+        <!-- android:layout_alignParentLeft="true" -->
+        <!-- android:layout_below="@+id/bookmark_link_txt" -->
+        <!-- android:layout_marginTop="20dp" -->
+        <!-- android:background="#8589A3" /> -->
+
+        <LinearLayout
+            android:id="@+id/delete_bookmark"
+            android:layout_width="47px"
+            android:layout_height="43px"
+            android:layout_alignBottom="@+id/bookmark_link_txt"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/bookmark_title_txt"
+            android:layout_marginRight="20px"
+            android:gravity="center"
+            android:tag="mwar" >
+
+            <ImageView
+                android:id="@+id/delete_bookmark"
+                android:layout_width="47px"
+                android:layout_height="43px"
+                android:src="@drawable/ic_cancel"
+                android:tag="mwar" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

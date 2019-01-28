@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_new"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/et_usn"
+        android:layout_width="600px"
+        android:layout_height="70px"
+        android:layout_marginTop="100px"
+        android:background="#8589A3"
+        android:ems="10"
+        android:hint="@string/enter_username"
+        android:paddingLeft="10px"
+        android:singleLine="true"
+        android:gravity="center"
+        android:textColor="#FEFEFF"
+        android:textColorHint="#737790"
+        android:textSize="32px">
+    <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/et_pass"
+        android:layout_width="600px"
+        android:layout_height="70px"
+        android:layout_marginTop="60px"
+        android:background="#8589A3"
+        android:ellipsize="start"
+        android:ems="10"
+        android:hint="@string/enter_passwrod"
+        android:inputType="textPassword"
+        android:paddingLeft="10px"
+        android:singleLine="true"
+        android:textColor="#FEFEFF"
+        android:textColorHint="#737790"
+        android:gravity="center"
+        android:textSize="32px" >
+    </EditText>
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="600px"
+        android:layout_height="80px"
+        android:layout_marginTop="60px"
+        android:background="#58C5BC"
+        android:text="@string/button_login"
+        android:textColor="#FEFEFF"
+        android:textColorHint="#FEFEFF"
+        android:textSize="32px"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/forgetPassword"
+        android:layout_width="600px"
+        android:layout_height="60px"
+        android:layout_marginTop="60px"
+        android:text="@string/frgt_pass"
+        android:textAppearance="?android:attr/textAppearanceSmallInverse"
+        android:textColor="#FEFEFF"
+        android:textSize="32px"
+        android:textStyle="bold|normal"
+        android:paddingLeft="20px"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/sign_up_button"
+        android:layout_width="600px"
+        android:layout_height="90px"
+        android:layout_marginTop="60px"
+        android:background="#FFB459"
+        android:text="@string/register"
+        android:textColor="#000000"
+        android:textColorHint="#FEFEFF"
+        android:textSize="32px"
+        android:textStyle="normal" />
+
+    <ImageView
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_marginTop="80px"
+        android:contentDescription="@string/logo_description"
+        android:tag="mwar"
+        android:src="@drawable/logo_home" />
+    
+    <TextView android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="40px"
+        android:layout_marginRight="40px"
+        android:layout_marginTop="40px"
+        android:gravity="center"
+        android:text="@string/text_multilanguages"
+        />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="96px"
+    tools:context="com.medarkive.Fragments.BookmarkListFragment" >
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:divider="#8589A3"
+        android:dividerHeight="2px"
+        android:drawSelectorOnTop="false" />
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/feedback_layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4B566D"
+    android:layout_marginTop="96px"
+     >
+
+    <Button
+        android:id="@+id/send_feedback"
+        android:layout_width="fill_parent"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#ED6979"
+        android:clickable="true"
+        android:text="@string/submit"
+        android:textColor="#FFFFFF"
+        android:textSize="32px"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/feedback"
+        android:layout_width="fill_parent"
+        android:layout_height="300px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/send_feedback"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:layout_marginTop="40px"
+        android:background="#8589A3"
+        android:ems="10"
+        android:gravity="center_vertical|start|top"
+        android:hint="Enter feedback here..."
+        android:padding="15px"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#B6B5C8"
+        android:textSize="32px" >
+
+        <requestFocus />
+    </EditText>
+</RelativeLayout>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.medarkive"
+    android:versionCode="7"
+    android:versionName="1.0" >
+
+  <!--  <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="20" />-->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" >
+        </meta-data>
+
+        <activity
+            android:name="com.medarkive.Main.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.medarkive.Main.DisplayDataActivity"
+            android:label="@string/title_activity_display_data"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.MainActivity" -->
+        <!-- android:label="@string/title_activity_main" -->
+        <!-- android:screenOrientation="portrait" > -->
+        <!-- </activity> -->
+        <activity
+            android:name="com.medarkive.Main.SignUp"
+            android:label="@string/title_activity_register_new_user"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.medarkive.Main.LoginActivity" >
+        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.MuPDFFragment" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:theme="@android:style/Theme.NoTitleBar" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/vnd.ms-xpsdocument" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/pdf" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/x-cbz" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.xps" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.pdf" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.cbz" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.FeedBackFragment" -->
+        <!-- android:label="@string/title_activity_fedd_back" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.TrackerFragment" -->
+        <!-- android:label="@string/title_activity_tracker" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.MyArkiveFragment" -->
+        <!-- android:label="@string/title_activity_my_arkive_fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.CPDLogListFragment" -->
+        <!-- android:label="@string/title_activity_cpd__fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.EditProfileFragment" -->
+        <!-- android:label="@string/title_activity_edit__profile__fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.EditNameFragment" -->
+        <!-- android:label="@string/title_activity_edit_name" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.ChangePasswordFragment" -->
+        <!-- android:label="@string/title_activity_change_password" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.CPDOptionFragment" -->
+        <!-- android:label="@string/title_activity_cpdoption" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.EventDescriptionFragment" -->
+        <!-- android:label="@string/title_activity_event_description_fragment"
+        android:screenOrientation="portrait"> -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.BookmarkListFragment" -->
+        <!-- android:label="@string/title_activity_bookmark_list" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.EBOOKListFragment" -->
+        <!-- android:label="@string/app_name" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+
+
+        <!-- <receiver android:name="com.medarkive.Utilities.DownloadService" /> -->
+
+
+        <!-- <activity -->
+        <!-- android:name="com.facebook.FacebookActivity" -->
+        <!-- android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" /> -->
+        <!-- <activity -->
+        <!-- android:name=".SearchActivityForWeb" -->
+        <!-- android:label="@string/title_activity_search_activity_for_web" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.SEARCH" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+    </application>
+
+</manifest>

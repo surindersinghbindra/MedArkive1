@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4B566D"
+     >
+
+    <TextView
+        android:id="@+id/event_type_txt"
+        android:layout_width="560px"
+        android:layout_height="140px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="40px"
+        android:ellipsize="end"
+        android:gravity="start|center_vertical"
+        android:lines="2"
+        android:maxLines="2"
+        android:padding="20px"
+        android:textColor="#FFFFFF"
+        android:textSize="40px" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/event_type_txt"
+        android:background="#8589A3" />
+
+    <LinearLayout
+        android:id="@+id/imageView1"
+        android:layout_width="70px"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/view1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="60px"
+            android:layout_height="60px"
+            android:src="@drawable/ic_action_next_item" />
+    </LinearLayout>
+
+</RelativeLayout>

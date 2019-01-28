@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="96px"
+    android:background="#4B566D"
+    tools:context="com.medarkive.Fragments.CPDLogListFragment" >
+
+    <Button
+        android:id="@+id/add_event"
+        android:layout_width="fill_parent"
+        android:layout_height="120px"
+        android:background="#58C5BC"
+        android:gravity="center|start"
+        android:padding="30px"
+        android:text="ADD EVENT"
+        android:textColor="#FFFFFF"
+        android:textSize="40px" />
+
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/add_event"
+        android:divider="#9192AB"
+        android:dividerHeight="2px"
+        android:drawSelectorOnTop="false" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:layout_alignBottom="@+id/add_event"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_action_next_item" />
+
+</RelativeLayout>

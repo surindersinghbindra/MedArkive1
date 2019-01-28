@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="200px" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:background="#4B566D"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearLay"
+            android:layout_width="470px"
+            android:layout_height="170px"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30px"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/summary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Summary"
+                android:textColor="#FFFFFF"
+                android:textSize="40px" />
+
+            <TextView
+                android:id="@+id/summary_credit_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="summary"
+                android:textColor="#FFFFFF"
+                android:textSize="32px" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="20px"
+            android:layout_marginRight="60px"
+            android:layout_marginTop="30px"
+            android:tag="mwar" >
+
+            <com.medarkive.Main.CircleChartView
+                android:id="@+id/summary_progress"
+                android:layout_width="120px"
+                android:layout_height="120px"
+                android:layout_alignParentRight="true"
+                android:tag="mwar" />
+
+            <ImageView
+                android:id="@+id/summary_frwd_bt"
+                android:layout_width="60px"
+                android:layout_height="60px"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_cpd_next_item"
+                android:tag="mwar" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/View05"
+            android:layout_width="fill_parent"
+            android:layout_height="4px"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/relativeLayout1"
+            android:layout_marginTop="20px"
+            android:background="#8589A3" />
+    </RelativeLayout>
+
+</RelativeLayout>

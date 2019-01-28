@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.medarkive"
+    android:targetSandboxVersion="2"
+    android:versionCode="7"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <!--
+        <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="20" />
+    -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" >
+        </meta-data>
+
+        <activity
+            android:name="com.medarkive.Main.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.medarkive.Main.DisplayDataActivity"
+            android:label="@string/title_activity_display_data"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.MainActivity" -->
+        <!-- android:label="@string/title_activity_main" -->
+        <!-- android:screenOrientation="portrait" > -->
+        <!-- </activity> -->
+        <activity
+            android:name="com.medarkive.Main.SignUp"
+            android:label="@string/title_activity_register_new_user"
+            android:parentActivityName="com.medarkive.Main.LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.MuPDFFragment" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:theme="@android:style/Theme.NoTitleBar" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/vnd.ms-xpsdocument" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/pdf" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <data android:mimeType="application/x-cbz" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.xps" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.pdf" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="file" /> -->
+        <!-- <data android:mimeType="*/*" /> -->
+        <!-- <data android:pathPattern=".*\\.cbz" /> -->
+        <!-- <data android:host="*" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.FeedBackFragment" -->
+        <!-- android:label="@string/title_activity_fedd_back" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.TrackerFragment" -->
+        <!-- android:label="@string/title_activity_tracker" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.MyArkiveFragment" -->
+        <!-- android:label="@string/title_activity_my_arkive_fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.CPDLogListFragment" -->
+        <!-- android:label="@string/title_activity_cpd__fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.EditProfileFragment" -->
+        <!-- android:label="@string/title_activity_edit__profile__fragment" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.EditNameFragment" -->
+        <!-- android:label="@string/title_activity_edit_name" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.ChangePasswordFragment" -->
+        <!-- android:label="@string/title_activity_change_password" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.CPDOptionFragment" -->
+        <!-- android:label="@string/title_activity_cpdoption" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Fragments.EventDescriptionFragment" -->
+        <!--
+        android:label="@string/title_activity_event_description_fragment"
+        android:screenOrientation="portrait">
+        -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.BookmarkListFragment" -->
+        <!-- android:label="@string/title_activity_bookmark_list" > -->
+        <!-- </activity> -->
+        <!-- <activity -->
+        <!-- android:name="com.medarkive.Main.EBOOKListFragment" -->
+        <!-- android:label="@string/app_name" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+
+
+        <!-- <receiver android:name="com.medarkive.Utilities.DownloadService" /> -->
+
+
+        <!-- <activity -->
+        <!-- android:name="com.facebook.FacebookActivity" -->
+        <!-- android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" /> -->
+        <!-- <activity -->
+        <!-- android:name=".SearchActivityForWeb" -->
+        <!-- android:label="@string/title_activity_search_activity_for_web" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.SEARCH" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <activity android:name="com.artifex.mupdf.viewer.DocumentActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:mimeType="application/pdf" />
+                <data android:mimeType="application/vnd.ms-xpsdocument" />
+                <data android:mimeType="application/oxps" />
+                <data android:mimeType="application/x-cbz" />
+                <data android:mimeType="application/epub+zip" />
+                <data android:mimeType="text/xml" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:pathPattern=".*\\.pdf" />
+                <data android:pathPattern=".*\\.xps" />
+                <data android:pathPattern=".*\\.oxps" />
+                <data android:pathPattern=".*\\.cbz" />
+                <data android:pathPattern=".*\\.epub" />
+                <data android:pathPattern=".*\\.fb2" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.artifex.mupdf.viewer.OutlineActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden" >
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity android:name="com.facebook.CustomTabActivity" />
+
+        <provider
+            android:name="com.facebook.marketing.internal.MarketingInitProvider"
+            android:authorities="com.medarkive.MarketingInitProvider"
+            android:exported="false" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="com.medarkive.FacebookInitProvider"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.medarkive.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

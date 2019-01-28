@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+<!--     <ImageView -->
+<!--         android:id="@+id/forward" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignParentRight="true" -->
+<!--         android:layout_alignParentTop="false" -->
+<!--         android:layout_centerInParent="true" -->
+<!--         android:layout_marginRight="5dp" -->
+<!--         android:src="@drawable/ic_forward" /> -->
+
+<!--     <ImageView -->
+<!--         android:id="@+id/back" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_centerVertical="true" -->
+<!--         android:layout_marginRight="10dp" -->
+<!--         android:layout_toLeftOf="@+id/forward" -->
+<!--         android:src="@drawable/ic_backword" /> -->
+
+    <ImageView
+        android:id="@+id/icon_drawer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/back"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/back"
+        android:src="@drawable/ic_drawer" />
+
+    <TextView
+        android:id="@+id/start_tracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/back"
+        android:layout_alignTop="@+id/back"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/back"
+        android:gravity="center_vertical"
+        android:text="Start"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/icon_drawer"
+        android:layout_alignTop="@+id/icon_drawer"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/icon_drawer"
+        android:src="@drawable/ic_bck_arrow" />
+
+</RelativeLayout>

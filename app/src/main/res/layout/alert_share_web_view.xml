@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#FFFFFF"
+     >
+
+     <LinearLayout
+         android:layout_width="600px"
+         android:layout_height="650px"
+         android:background="#FFFFFF"
+         android:orientation="vertical" >
+
+         <LinearLayout
+             android:id="@+id/cross"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="20px"
+             android:orientation="vertical" >
+
+             <ImageButton
+                 android:id="@+id/cancel_share"
+                 android:layout_width="80px"
+                 android:layout_height="40px"
+                 android:layout_gravity="right"
+                 android:layout_marginRight="20px"
+                 android:background="@color/transparent"
+                 android:gravity="right"
+                 android:src="@drawable/cross" />
+         </LinearLayout>
+
+         <ImageButton
+             android:id="@+id/social_share"
+             android:layout_width="290px"
+             android:layout_height="90px"
+             android:layout_gravity="center_horizontal"
+             android:background="@color/transparent"
+             android:scaleType="fitXY"
+             android:src="@drawable/social_share" />
+
+         <ImageButton
+             android:id="@+id/facebook"
+             android:layout_width="290px"
+             android:layout_height="90px"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginTop="50px"
+             android:background="@color/transparent"
+             android:scaleType="fitXY"
+             android:src="@drawable/facbook_share" />
+
+         <ImageButton
+             android:id="@+id/twitter"
+             android:layout_width="290px"
+             android:layout_height="90px"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginTop="35px"
+             android:background="@color/transparent"
+             android:scaleType="fitXY"
+             android:visibility="gone"
+             android:src="@drawable/twitter_share" />
+
+         <ImageButton
+             android:id="@+id/gmail"
+             android:layout_width="290px"
+             android:layout_height="90px"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginBottom="80px"
+             android:layout_marginTop="35px"
+             android:background="@color/transparent"
+             android:scaleType="fitXY"
+             android:src="@drawable/mail_share" />
+     </LinearLayout>
+
+</LinearLayout>

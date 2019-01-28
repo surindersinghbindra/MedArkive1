@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="96px"
+    android:background="#4B566D"
+    tools:context="com.medarkive.Fragments.EditProfileFragment" >
+
+    <RelativeLayout
+        android:id="@+id/edit_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true" >
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="150px"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20px"
+            android:background="#4B566D"
+            android:clickable="false"
+            android:duplicateParentState="true"
+            android:gravity="start|left|center_vertical"
+            android:text="Edit Name"
+            android:textColor="#FFFFFF"
+            android:textSize="32px" />
+
+        <ImageButton
+            android:id="@+id/edit_name_frwd"
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="30px"
+            android:background="@color/transparent"
+            android:src="@drawable/ic_action_next_item" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_below="@+id/edit_name"
+        android:background="#8589A3" />
+
+    <RelativeLayout
+        android:id="@+id/change_password"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/view1"
+        android:clickable="true" >
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="150px"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20px"
+            android:background="#4B566D"
+            android:clickable="false"
+            android:duplicateParentState="true"
+            android:gravity="start|center_vertical"
+            android:text="Change Password"
+            android:textColor="#FFFFFF"
+            android:textSize="32px" />
+
+        <ImageButton
+            android:id="@+id/change_password_frwd"
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30px"
+            android:background="@color/transparent"
+            android:src="@drawable/ic_action_next_item" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/change_password"
+        android:background="#8589A3" />
+
+    <RelativeLayout
+        android:id="@+id/cpd_choice"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/view2"
+        android:clickable="true" >
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="150px"
+            android:layout_marginLeft="20px"
+            android:background="#4B566D"
+            android:clickable="false"
+            android:duplicateParentState="true"
+            android:gravity="start|center_vertical"
+            android:text="CPD Choice"
+            android:textColor="#FFFFFF"
+            android:textSize="32px" />
+
+        <ImageButton
+            android:id="@+id/cpd_choice_frwd"
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="20px"
+            android:background="@color/transparent"
+            android:src="@drawable/ic_action_next_item" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/cpd_choice"
+        android:background="#8589A3" />
+
+</RelativeLayout>

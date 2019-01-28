@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="440px"
+        android:layout_height="220px"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/thumb"
+        android:layout_marginTop="20px"
+        android:layout_marginLeft="60px"
+        android:ellipsize="end"
+        android:maxLines="6"
+        android:minLines="1"
+        android:padding="2px"
+        android:textColor="#ffffff"
+        android:textSize="32px" />
+
+    <ImageView
+        android:id="@+id/thumb"
+        android:layout_width="400px"
+        android:layout_height="500px"
+        android:layout_marginLeft="60px"
+        android:layout_marginTop="20px"
+        android:layout_below="@+id/title"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:onClick="downloadPDF"
+        android:scaleType="fitXY" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/thumb"
+        android:layout_alignLeft="@id/thumb"
+        android:layout_alignRight="@id/thumb"
+        android:minHeight="20px"
+        android:minWidth="600px"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/sub_title"
+        android:layout_width="440px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/thumb"
+        android:layout_alignRight="@+id/title"
+        android:layout_below="@+id/thumb"
+        android:layout_marginTop="40px"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:lineSpacingExtra="5px"
+        android:minLines="1"
+        android:textColor="#ffffff"
+        android:textSize="28px"
+        android:textStyle="italic"
+        android:typeface="serif" />
+
+</RelativeLayout>

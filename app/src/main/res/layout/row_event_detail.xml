@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4B566D"
+    android:layout_marginTop="96px"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/View01"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/event_description"
+        android:background="#8589A3" />
+
+    <LinearLayout
+        android:id="@+id/delete_row"
+        android:layout_width="80px"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/View01"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="50px"
+            android:src="@drawable/ic_cancel" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/event_description"
+        android:layout_width="560px"
+        android:layout_height="150px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="40px"
+        android:ellipsize="end"
+        android:lines="2"
+        android:gravity="start|center_vertical"
+        android:padding="20px"
+        android:maxLines="2"
+        android:textColor="#FFFFFF"
+        android:textSize="40px" />
+
+</RelativeLayout>

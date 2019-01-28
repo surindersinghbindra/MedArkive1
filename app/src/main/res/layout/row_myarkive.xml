@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#4B566D" >
+
+    <LinearLayout
+        android:id="@+id/myarkiveLay"
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/myarkive_main_lay"
+            android:layout_width="598px"
+            android:layout_height="116px"
+            android:tag="mwar" >
+
+            <ImageView
+                android:id="@+id/browser_ic"
+                android:layout_width="108px"
+                android:layout_height="113px"
+                android:layout_alignParentLeft="true"
+                android:tag="mwar"
+                android:background="@drawable/browser" />
+
+            <TextView
+                android:id="@+id/list_item"
+                android:layout_width="460px"
+                android:layout_height="116px"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/browser_ic"
+                android:layout_marginLeft="40px"
+                android:gravity="start|center_vertical"
+                android:text="Test Myarkive"
+                android:tag="mwar"
+                android:textColor="#FFFFFF"
+                android:textSize="50px" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/list_forward"
+            android:layout_width="70px"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/list_item"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="60px"
+                android:layout_height="70px"
+                android:tag="mwar"
+                android:src="@drawable/ic_action_next_item" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider"
+        android:tag="mwar"
+        android:layout_width="fill_parent"
+        android:layout_height="2px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/myarkiveLay"
+        android:background="#8589A3" />
+
+</RelativeLayout>
