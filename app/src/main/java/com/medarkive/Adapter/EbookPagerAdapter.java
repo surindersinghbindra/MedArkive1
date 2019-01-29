@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 
 import com.medarkive.Beans.EbookBean;
 import com.medarkive.Beans.PDFBean;
-import com.medarkive.Fragments.MuPDFFragment1;
 import com.medarkive.Main.DisplayDataActivity;
+import com.medarkive.Main.MuPDFFragment;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -62,7 +62,7 @@ public class EbookPagerAdapter extends FragmentStatePagerAdapter implements Seri
 		localPDFBean.setPDF_LOGO(localEbookBean.getId());
 		localPDFBean.setFILE_TYPE("ebook");
 		localBundle.putSerializable(DisplayDataActivity.EXTRA_URL, localPDFBean);
-		return Fragment.instantiate(this.mContext, MuPDFFragment1.class.getName(), localBundle);
+		return Fragment.instantiate(this.mContext, MuPDFFragment.class.getName(), localBundle);
 	}
 
 	@Override
@@ -75,7 +75,7 @@ public class EbookPagerAdapter extends FragmentStatePagerAdapter implements Seri
 		Object localObject = super.instantiateItem(paramViewGroup, paramInt);
 		if ((localObject instanceof Fragment)) {
 			// commented by SMIT
-			String str = ((MuPDFFragment1) localObject).getTag();
+			String str = ((MuPDFFragment) localObject).getTag();
 			this.mFragmentTags.put(Integer.valueOf(paramInt), str);
 		}
 		return localObject;

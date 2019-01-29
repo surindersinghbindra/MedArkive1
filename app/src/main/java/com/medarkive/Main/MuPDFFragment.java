@@ -1,4 +1,3 @@
-/*
 package com.medarkive.Main;
 
 import android.annotation.SuppressLint;
@@ -34,9 +33,16 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.ViewAnimator;
 
-import com.artifex.mupdf.viewer.MuPDFCore;
+import com.artifex.mupdfdemo.Annotation;
+import com.artifex.mupdfdemo.ChoosePDFActivity;
 import com.artifex.mupdfdemo.FilePicker;
 import com.artifex.mupdfdemo.MuPDFAlert;
+import com.artifex.mupdfdemo.MuPDFCore;
+import com.artifex.mupdfdemo.MuPDFPageAdapter;
+import com.artifex.mupdfdemo.OutlineActivity;
+import com.artifex.mupdfdemo.OutlineActivityData;
+import com.artifex.mupdfdemo.OutlineItem;
+import com.artifex.mupdfdemo.SearchTaskResult;
 import com.medarkive.Beans.PDFBean;
 import com.medarkive.Beans.PDFTrackerBean;
 import com.medarkive.R;
@@ -74,17 +80,18 @@ import java.util.concurrent.Executor;
 
 import rmn.androidscreenlibrary.ASSL;
 
-class ThreadPerTaskExecutor implements Executor {
-	public void execute(Runnable r) {
-		new Thread(r).start();
-	}
-}
+
 
 @SuppressLint("SimpleDateFormat")
 public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupport {
-	*/
-/* The core rendering instance *//*
 
+	class ThreadPerTaskExecutor implements Executor {
+		public void execute(Runnable r) {
+			new Thread(r).start();
+		}
+	}
+
+	/* The core rendering instance */
 	enum TopBarMode {
 		Main, Search, Annot, Delete, More, Accept
 	};
@@ -235,7 +242,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 					pressed[1] = MuPDFAlert.ButtonPressed.No;
 					break;
 				}
-				mAlertDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
+				mAlertDialog.setOnCancelListener(new OnCancelListener() {
 					public void onCancel(DialogInterface dialog) {
 						mAlertDialog = null;
 						if (mAlertsActive) {
@@ -376,7 +383,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 					buffer = new byte[len];
 					is.read(buffer, 0, len);
 					is.close();
-				} catch (java.lang.OutOfMemoryError e) {
+				} catch (OutOfMemoryError e) {
 					System.out.println("Out of memory during buffer reading");
 					reason = e.toString();
 				} catch (Exception e) {
@@ -1188,7 +1195,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 			} else {
 				trakingBean.setFile_id("0");
 			}
-			Log.e("Connection detector ------>", cd.isConnectedToInternet()+"");
+			Log.e("Conn dtctor>", cd.isConnectedToInternet()+"");
 			if (cd.isConnectedToInternet()) {
 
 				Thread t = new Thread() {
@@ -1200,11 +1207,9 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 						// Create a list to contain the result address
 						List<Address> addresses = null;
 						try {
-							*/
-/*
+							/*
 							 * Return 1 address.
-							 *//*
-
+							 */
 							addresses = geocoder.getFromLocation(latitude, longitude, 1);
 						} catch (IOException e1) {
 							Log.e("LocationSampleActivity", "IO Exception in getFromLocation()");
@@ -1219,12 +1224,10 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 						if (addresses != null && addresses.size() > 0) {
 							// Get the first address
 							Address address = addresses.get(0);
-							*/
-/*
+							/*
 							 * Format the first line of address (if available),
 							 * city, and country name.
-							 *//*
-
+							 */
 							// setAdd(address);
 							String addressText = String.format("%s, %s, %s",
 							// If there's a street address, add it
@@ -1294,9 +1297,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 									post.setEntity(se);
 									// System.out.println("check 1");
 									response = client.execute(post);
-									*/
-/* Checking response *//*
-
+									/* Checking response */
 									if (response != null) {
 										// reading response
 										InputStream ips = response.getEntity().getContent();
@@ -1403,8 +1404,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 
 	private class GetAddressTask extends AsyncTask<Address, Void, Address> {
 
-		*/
-/**
+		/**
 		 * Get a Geocoder instance, get the latitude and longitude look up the
 		 * address, and return it
 		 * 
@@ -1412,8 +1412,7 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 		 * @return A string containing the address of the current location, or
 		 *         an empty string if no address can be found, or an error
 		 *         message
-		 *//*
-
+		 */
 		@Override
 		protected Address doInBackground(Address... params) {
 			Geocoder geocoder = new Geocoder(getActivity());
@@ -1422,11 +1421,9 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 			// Create a list to contain the result address
 			List<Address> addresses = null;
 			try {
-				*/
-/*
+				/*
 				 * Return 1 address.
-				 *//*
-
+				 */
 				addresses = geocoder.getFromLocation(loc.getLatitude(), loc.getLongitude(), 1);
 			} catch (IOException e1) {
 				Log.e("LocationSampleActivity", "IO Exception in getFromLocation()");
@@ -1443,12 +1440,10 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 			if (addresses != null && addresses.size() > 0) {
 				// Get the first address
 				Address address = addresses.get(0);
-				*/
-/*
+				/*
 				 * Format the first line of address (if available), city, and
 				 * country name.
-				 *//*
-
+				 */
 				// setAdd(address);
 				String addressText = String.format("%s, %s, %s",
 				// If there's a street address, add it
@@ -1526,4 +1521,3 @@ public class MuPDFFragment extends Fragment implements FilePicker.FilePickerSupp
 	}
 
 }
-*/

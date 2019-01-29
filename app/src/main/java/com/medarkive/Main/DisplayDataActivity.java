@@ -77,7 +77,6 @@ import com.medarkive.Fragments.EventDescriptionFragment;
 import com.medarkive.Fragments.EventDetailsListFragment;
 import com.medarkive.Fragments.EvetTypeListFragment;
 import com.medarkive.Fragments.FeedBackFragment;
-import com.medarkive.Fragments.MuPDFFragment1;
 import com.medarkive.Fragments.MyArkiveFragment;
 import com.medarkive.Fragments.PDFTabsFragment;
 import com.medarkive.Fragments.SimpleWebViewFragment;
@@ -1642,7 +1641,7 @@ public class DisplayDataActivity extends FragmentActivity implements OnChildClic
 
 			if (file.exists()) {
 				// commented by SMIT
-				fr = new MuPDFFragment1();
+				fr = new MuPDFFragment();
 				editName("pdf" + "-" + pdf.getPDF_TITLE());
 				FragmentTransaction ff2 = getSupportFragmentManager().beginTransaction();
 				Bundle bde = new Bundle();
@@ -1786,7 +1785,7 @@ public class DisplayDataActivity extends FragmentActivity implements OnChildClic
 		if (fr != null) {
 			getSupportFragmentManager().beginTransaction().remove(fr).commit();
 		}
-		fr = new MuPDFFragment1();
+		fr = new MuPDFFragment();
 		FragmentTransaction ff2 = getSupportFragmentManager().beginTransaction();
 		Bundle bde = new Bundle();
 		bde.putSerializable(DisplayDataActivity.EXTRA_URL, pdf);

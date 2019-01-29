@@ -1,4 +1,3 @@
-/*
 package com.medarkive.Main;
 
 import android.content.Context;
@@ -9,12 +8,12 @@ import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.view.WindowManager;
 
-import com.artifex.mupdf.viewer.SearchTaskResult;
-import com.artifex.mupdfdemo.Hit;
 import com.artifex.mupdfdemo.LinkInfo;
+import com.artifex.mupdfdemo.LinkInfoExternal;
 import com.artifex.mupdfdemo.LinkInfoInternal;
+import com.artifex.mupdfdemo.LinkInfoRemote;
 import com.artifex.mupdfdemo.LinkInfoVisitor;
-
+import com.artifex.mupdfdemo.SearchTaskResult;
 
 public class MuPDFReaderView extends ReaderView {
 	public enum Mode {Viewing, Selecting, Drawing}
@@ -26,7 +25,7 @@ public class MuPDFReaderView extends ReaderView {
 
 	protected void onTapMainDocArea() {}
 	protected void onDocMotion() {}
-//	protected void onHit(Hit item) {};
+	protected void onHit(Hit item) {};
 
 	public void setLinksEnabled(boolean b) {
 		mLinksEnabled = b;
@@ -279,4 +278,3 @@ public class MuPDFReaderView extends ReaderView {
 		((MuPDFView) v).setScale(scale);
 	}
 }
-*/

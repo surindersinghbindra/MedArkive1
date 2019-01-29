@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="24"
+    abi="x86"
+    api-level="28"
     build-mode="COLD"
-    density="xxhdpi"
+    density="560dpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.3.0"
-    timestamp="1548678337491"
+    timestamp="1548747077546"
     token="9167305447899654017"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="783" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="9" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
+
+    <artifact
+        location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1548678275498"
+        timestamp="1548746854619"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -40,10 +42,13 @@
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -58,15 +63,23 @@
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1548678337491"
-        verifier="COLD_SWAP_REQUESTED" />
+        ir-eligibility="COMPATIBLE"
+        timestamp="1548747077546"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/atinder/Downloads/MedArkive1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
 
 </instant-run>

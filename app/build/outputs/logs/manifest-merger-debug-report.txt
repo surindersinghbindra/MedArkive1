@@ -6,7 +6,6 @@ INJECTED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xm
 INJECTED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xml:2:1-197:12
 MERGED from [com.android.support:multidex:1.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/260c811b4aeafa4e4cabd4b434624b6a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/33bc4e448fcb6f2a9eb9acf16cce8576/AndroidManifest.xml:21:1-31:12
-MERGED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:2:1-44:12
 MERGED from [com.facebook.android:facebook-login:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/AndroidManifest.xml:21:1-37:12
@@ -15,7 +14,6 @@ MERGED from [com.facebook.android:facebook-applinks:4.40.0] /home/atinder/.gradl
 MERGED from [com.facebook.android:facebook-messenger:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-marketing:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/9e2662f20917fd02b88fa911de03fc10/AndroidManifest.xml:21:1-35:12
 MERGED from [com.facebook.android:facebook-core:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/aaa2bab0206b038e23cf33e7dc19d056/AndroidManifest.xml:21:1-53:12
-MERGED from [com.artifex.mupdf:fitz:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/fitz-1.13.0.aar/17292ebe2045f1484b4f85ffdc821334/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/eb4f45d1fc5c76c8564dfc0ce70e5b73/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2ada9e4c18642c668ec429bf42c6a5f/AndroidManifest.xml:17:1-22:12
@@ -77,8 +75,6 @@ application
 ADDED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xml:20:5-195:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/33bc4e448fcb6f2a9eb9acf16cce8576/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/33bc4e448fcb6f2a9eb9acf16cce8576/AndroidManifest.xml:28:5-29:19
-MERGED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:9:5-42:19
-MERGED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:9:5-42:19
 MERGED from [com.facebook.android:facebook-login:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-share:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/AndroidManifest.xml:28:5-29:19
@@ -161,8 +157,6 @@ MERGED from [com.android.support:multidex:1.0.2] /home/atinder/.gradle/caches/tr
 MERGED from [com.android.support:multidex:1.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/260c811b4aeafa4e4cabd4b434624b6a/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/33bc4e448fcb6f2a9eb9acf16cce8576/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/33bc4e448fcb6f2a9eb9acf16cce8576/AndroidManifest.xml:24:5-26:41
-MERGED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.android:facebook-login:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-share:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/AndroidManifest.xml:24:5-26:41
@@ -179,8 +173,6 @@ MERGED from [com.facebook.android:facebook-marketing:4.40.0] /home/atinder/.grad
 MERGED from [com.facebook.android:facebook-marketing:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/9e2662f20917fd02b88fa911de03fc10/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/aaa2bab0206b038e23cf33e7dc19d056/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/aaa2bab0206b038e23cf33e7dc19d056/AndroidManifest.xml:24:5-26:41
-MERGED from [com.artifex.mupdf:fitz:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/fitz-1.13.0.aar/17292ebe2045f1484b4f85ffdc821334/AndroidManifest.xml:5:5-7:41
-MERGED from [com.artifex.mupdf:fitz:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/fitz-1.13.0.aar/17292ebe2045f1484b4f85ffdc821334/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/eb4f45d1fc5c76c8564dfc0ce70e5b73/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/eb4f45d1fc5c76c8564dfc0ce70e5b73/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/AndroidManifest.xml:20:5-44
@@ -215,36 +207,6 @@ INJECTED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xm
 		INJECTED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xml
 		ADDED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xml
 		INJECTED from /home/atinder/Downloads/MedArkive1/app/src/main/AndroidManifest.xml
-activity#com.artifex.mupdf.viewer.DocumentActivity
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:10:9-37:20
-	android:name
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:10:19-75
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/epub+zip+data:mimeType:application/oxps+data:mimeType:application/pdf+data:mimeType:application/vnd.ms-xpsdocument+data:mimeType:application/x-cbz+data:mimeType:text/xml
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:11:13-23:29
-action#android.intent.action.VIEW
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:12:17-69
-	android:name
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:12:25-66
-category#android.intent.category.DEFAULT
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:14:17-76
-	android:name
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:14:27-73
-category#android.intent.category.BROWSABLE
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:15:17-78
-	android:name
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:15:27-75
-data
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:17:17-60
-	android:mimeType
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:17:23-57
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:pathPattern:.*\\.cbz+data:pathPattern:.*\\.epub+data:pathPattern:.*\\.fb2+data:pathPattern:.*\\.oxps+data:pathPattern:.*\\.pdf+data:pathPattern:.*\\.xps
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:24:13-36:29
-activity#com.artifex.mupdf.viewer.OutlineActivity
-ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:38:9-41:20
-	android:configChanges
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:40:13-74
-	android:name
-		ADDED from [com.artifex.mupdf:viewer:1.13.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/AndroidManifest.xml:39:13-68
 activity#com.facebook.FacebookActivity
 ADDED from [com.facebook.android:facebook-common:4.40.0] /home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/AndroidManifest.xml:29:9-32:66
 	android:configChanges

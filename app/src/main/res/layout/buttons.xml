@@ -217,6 +217,40 @@
 				android:onClick="OnCancelMoreButtonClick"
 				android:src="@drawable/ic_cancel" />
 
+			<ImageButton
+				android:id="@+id/proofButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_toLeftOf="@+id/printButton"
+				android:contentDescription="@string/mupdflib_proof"
+				android:background="@drawable/button"
+				android:onClick="OnProofButtonClick"
+				android:src="@drawable/ic_proof" />
+
+			<ImageButton
+				android:id="@+id/sepsButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_alignParentRight="true"
+				android:contentDescription="Separations"
+				android:background="@drawable/button"
+				android:onClick="OnSepsButtonClick"
+				android:src="@drawable/ic_sep" />
+
+
+			<ImageButton
+				android:id="@+id/printButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_toLeftOf="@+id/copyTextButton"
+				android:contentDescription="@string/mupdflib_print"
+				android:background="@drawable/button"
+				android:onClick="OnPrintButtonClick"
+				android:src="@drawable/ic_print" />
+
 
 			<ImageButton
 				android:id="@+id/editAnnotButton"

@@ -12,24 +12,24 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/anim/abc_fade_in.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pen.png.flat",
-        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_pen.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pen.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_pen.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -60,6 +60,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_arrow_up.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_arrow_up.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
@@ -80,40 +84,40 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/fragment_change_password.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_link_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_link_white_24dp.xml"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_clipboard.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_clipboard.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
@@ -128,16 +132,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_link_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_link.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_link.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_row_myarkive.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/row_myarkive.xml"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_link.png.flat",
-        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_link.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_cpd_menu_bar.png.flat",
@@ -152,16 +152,16 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_nav_www.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_activity_tracker.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/activity_tracker.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
@@ -180,20 +180,20 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_refresh_icon.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/refresh_icon.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_toc_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_link.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_link.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -240,10 +240,6 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/alert_bookmark_view.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_chevron_left_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pen.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxhdpi/ic_pen.png"
     },
@@ -256,8 +252,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_toc_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_toc_white_24dp.xml"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_more.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_more.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
@@ -276,12 +272,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_share.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_share.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_chevron_right_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -358,6 +354,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_select.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_select.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -524,16 +524,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/res/color/com_facebook_send_button_text_color.xml"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_updir.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_updir.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_chevron_left_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -560,8 +560,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_clipboard.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_clipboard.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bookmark.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_bookmark.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_annotation.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_annotation.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -588,10 +596,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_seek_line.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable/seek_line.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
@@ -602,10 +606,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_chevron_left_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
@@ -680,10 +680,6 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxhdpi/ic_link.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_search_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_big_image_loading.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable/big_image_loading.xml"
     },
@@ -692,16 +688,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ad9805be536c36146f093b3bbc74e298/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_link_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_link_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
@@ -710,6 +698,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cancel.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_cancel.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -748,10 +740,6 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/twitter_share.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_chevron_left_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -772,10 +760,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/drawable/com_facebook_button_icon.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_toc_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_row_event_type.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/row_event_type.xml"
     },
@@ -790,10 +774,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/activity_login.xml"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_search_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -816,12 +796,20 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_more.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pen.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_pen.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_textentry.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/textentry.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
@@ -854,6 +842,14 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_virtually.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_virtually.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_annot.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_annot.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_proof.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_proof.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -924,10 +920,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_chevron_right_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_nav_drawer_child_item.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/nav_drawer_child_item.xml"
     },
@@ -938,6 +930,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bck_arrow.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_bck_arrow.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_print.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_print.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
@@ -974,10 +970,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_close_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -1032,10 +1024,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_close_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_close_white_24dp.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/layout-v21/notification_action.xml"
     },
@@ -1058,10 +1046,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chevron_left_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_chevron_left_white_24dp.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1104,6 +1088,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_underline.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_underline.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_annotation.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_annotation.png"
     },
@@ -1124,8 +1112,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_document_activity.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/layout/document_activity.xml"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_doc.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_doc.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_trash.png.flat",
@@ -1134,6 +1126,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_app_icon.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
@@ -1168,6 +1164,10 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_check.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_check.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/anim/slide_out_right.xml"
     },
@@ -1178,6 +1178,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_arrow_right.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_arrow_right.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_background.xml.flat",
@@ -1198,6 +1202,14 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ad9805be536c36146f093b3bbc74e298/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_list.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_list.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_check.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_check.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
@@ -1256,6 +1268,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_share.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_share.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -1288,12 +1304,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_search_white_24dp.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sep.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_sep.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_alert_add_bookmark_view.xml.flat",
@@ -1306,6 +1322,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_outline_entry.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/outline_entry.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1380,6 +1400,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_tiled_background.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable/tiled_background.xml"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
@@ -1392,6 +1416,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_arrow_left.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_arrow_left.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_switch_thumb_material.xml"
     },
@@ -1402,6 +1430,14 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_trash.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_trash.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_annot.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_annot.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1420,16 +1456,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/layout/com_facebook_smart_device_dialog_fragment.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_fragment_pdftabs.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/fragment_pdftabs.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_chevron_right_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_selector.xml.flat",
@@ -1488,16 +1520,20 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_close_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_proof.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_proof.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_mail_share.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/mail_share.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cancel.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_cancel.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1516,6 +1552,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/res/drawable/com_facebook_button_send_background.xml"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_reflow.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_reflow.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi_background_new.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-hdpi/background_new.png"
     },
@@ -1532,14 +1572,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_toc_white_24dp.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_search_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_icon.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxhdpi/app_icon.png"
     },
@@ -1550,6 +1582,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_round.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/a114f3d0b728e63eb3279783cabcc19d/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_highlight.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_highlight.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1576,12 +1612,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_arrow_left.png.flat",
-        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_arrow_left.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dir.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_dir.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_search_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_arrow_left.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xxxhdpi/ic_arrow_left.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_trash.png.flat",
@@ -1614,10 +1650,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_social_share.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/social_share.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_close_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1656,8 +1688,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_link_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_magnifying_glass.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_magnifying_glass.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1686,10 +1718,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_close_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
@@ -1768,6 +1796,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_fragment_my_arkive.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/fragment_my_arkive.xml"
     },
@@ -1780,8 +1812,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_chevron_right_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/icon.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ad_loader_card_show_image_07.png.flat",
@@ -1812,10 +1844,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_close_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1828,8 +1856,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/31ec04cf557d4f0dfabbdfad0d764151/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_picker_entry.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/picker_entry.xml"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_strike.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_strike.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_arrow_right.png.flat",
@@ -1876,16 +1912,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-ldpi-v4/ic_chevron_left_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_left.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-hdpi/ic_arrow_left.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_print.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_print.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
@@ -1924,10 +1960,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_toc_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -1960,10 +1992,6 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chevron_right_white_24dp.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-anydpi-v21/ic_chevron_right_white_24dp.xml"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/layout/notification_action.xml"
     },
@@ -1980,16 +2008,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_link_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_chevron_left_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-mdpi-v4/ic_chevron_left_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_facbook_share.png.flat",
@@ -2014,6 +2034,10 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_check.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_check.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/animator_info.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/animator/info.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
@@ -2044,16 +2068,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0586f337e489abfddee725ffeba8f68d/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_chevron_right_white_24dp.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_busy.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable/busy.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_home_icon.png.flat",
@@ -2096,16 +2120,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_search_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_print_dialog.xml.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/print_dialog.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
@@ -2172,6 +2196,10 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_blue_circle.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/color-v23/abc_color_highlight_material.xml"
     },
@@ -2208,6 +2236,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_underline.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_underline.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_tooltip_enter.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/anim/tooltip_enter.xml"
     },
@@ -2220,8 +2252,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_toc_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_darkdenim3.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable/darkdenim3.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -2238,10 +2270,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_cross.png.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/cross.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_chevron_right_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxhdpi-v4/ic_chevron_right_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -2296,8 +2324,8 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_close_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_close_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_highlight.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_highlight.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
@@ -2308,12 +2336,16 @@
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/layout/web_view.xml"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_dir.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_dir.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_toc_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xxxhdpi-v4/ic_toc_white_24dp.png"
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_reflow.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_reflow.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
@@ -2358,10 +2390,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_search_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-xhdpi-v4/ic_search_white_24dp.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
@@ -2412,6 +2440,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_doc.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-ldpi/ic_doc.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
@@ -2428,12 +2460,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nav_myarkive.png.flat",
-        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_nav_myarkive.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nav_myarkive.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-xhdpi/ic_nav_myarkive.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_annotation.png.flat",
@@ -2484,16 +2516,16 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_link_white_24dp.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable-hdpi-v4/ic_link_white_24dp.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_page_num.xml.flat",
         "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable/page_num.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_select.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_select.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -2576,6 +2608,10 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_strike.png.flat",
+        "source": "/home/atinder/Downloads/MedArkive1/app/src/main/res/drawable-mdpi/ic_strike.png"
+    },
+    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
@@ -2592,12 +2628,12 @@
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/d80f09b2de853f2eeeb15c6f4854ca80/res/drawable-mdpi-v4/com_facebook_button_icon_white.png"
     },
     {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/fbadf77feea986ff48f2838bb570bb65/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2650,10 +2686,6 @@
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a0f394ab81567c9ee80ab6956123d3bf/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable_page_indicator.xml.flat",
-        "source": "/home/atinder/.gradle/caches/transforms-1/files-1.1/viewer-1.13.0.aar/a65398744e9075312dff5e2b0538114a/res/drawable/page_indicator.xml"
     },
     {
         "merged": "/home/atinder/Downloads/MedArkive1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_arrow_right.png.flat",

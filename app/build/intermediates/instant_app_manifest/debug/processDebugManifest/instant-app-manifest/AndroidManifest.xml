@@ -7,7 +7,7 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="28" />
 
     <!--
         <uses-sdk
@@ -204,38 +204,6 @@
         <!-- <action android:name="android.intent.action.SEARCH" /> -->
         <!-- </intent-filter> -->
         <!-- </activity> -->
-        <activity android:name="com.artifex.mupdf.viewer.DocumentActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <data android:mimeType="application/pdf" />
-                <data android:mimeType="application/vnd.ms-xpsdocument" />
-                <data android:mimeType="application/oxps" />
-                <data android:mimeType="application/x-cbz" />
-                <data android:mimeType="application/epub+zip" />
-                <data android:mimeType="text/xml" />
-            </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <data android:pathPattern=".*\\.pdf" />
-                <data android:pathPattern=".*\\.xps" />
-                <data android:pathPattern=".*\\.oxps" />
-                <data android:pathPattern=".*\\.cbz" />
-                <data android:pathPattern=".*\\.epub" />
-                <data android:pathPattern=".*\\.fb2" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.artifex.mupdf.viewer.OutlineActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden" >
-        </activity>
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"

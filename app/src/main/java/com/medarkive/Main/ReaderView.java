@@ -14,7 +14,7 @@ import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.Scroller;
 
-import com.artifex.mupdf.viewer.Stepper;
+import com.artifex.mupdfdemo.Stepper;
 import com.medarkive.Fragments.EBOOKFragment;
 import com.medarkive.R;
 
@@ -1090,15 +1090,15 @@ public class ReaderView extends AdapterView<Adapter> implements GestureDetector.
 
 	private void measureView(View v) {
 		// See what size the view wants to be
-		v.measure(View.MeasureSpec.UNSPECIFIED, View.MeasureSpec.UNSPECIFIED);
+		v.measure(MeasureSpec.UNSPECIFIED, MeasureSpec.UNSPECIFIED);
 
 		if (!mReflow) {
 			// Work out a scale that will fit it to this view
 			float scale = Math.min((float) getWidth() / (float) v.getMeasuredWidth(), (float) getHeight() / (float) v.getMeasuredHeight());
 			// Use the fitting values scaled by our current scale factor
-			v.measure(View.MeasureSpec.EXACTLY | (int) (v.getMeasuredWidth() * scale * mScale), View.MeasureSpec.EXACTLY | (int) (v.getMeasuredHeight() * scale * mScale));
+			v.measure(MeasureSpec.EXACTLY | (int) (v.getMeasuredWidth() * scale * mScale), MeasureSpec.EXACTLY | (int) (v.getMeasuredHeight() * scale * mScale));
 		} else {
-			v.measure(View.MeasureSpec.EXACTLY | (int) (v.getMeasuredWidth()), View.MeasureSpec.EXACTLY | (int) (v.getMeasuredHeight()));
+			v.measure(MeasureSpec.EXACTLY | (int) (v.getMeasuredWidth()), MeasureSpec.EXACTLY | (int) (v.getMeasuredHeight()));
 		}
 	}
 
